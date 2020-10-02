@@ -47,7 +47,7 @@
                 <input type="password" name="password" class="form-control" required>
                 </div>
                 <button type="submit" class="btn btn-primary">Login</button>
-                            
+                <a href="index.php"><button type="button" class="btn btn-primary"> Dpay</button></a>            
             </form>
             
 
